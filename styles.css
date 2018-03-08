@@ -30,6 +30,10 @@ MAIN NAVIGATION ON EVERY PAGE
     background: #446;
 }
 
+.main-nav .title {
+    flex: 1;
+  }
+
 /* 
 =======================
 MAIN HEADER ON EVERY PAGE
