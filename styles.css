@@ -16,6 +16,7 @@ MAIN NAVIGATION ON EVERY PAGE
 
 .main-nav {
     background-color: #222;
+    display: flex;
 }
 
 .main-nav a {
@@ -40,7 +41,7 @@ MAIN HEADER ON EVERY PAGE
 }
 
 .main-title {
-    font-size: 30px;
+    font-size: 25vh;
     color: white;
     text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
 }
