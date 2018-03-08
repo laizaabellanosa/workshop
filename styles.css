@@ -23,6 +23,7 @@ MAIN NAVIGATION ON EVERY PAGE
     color: white;
     padding: 10px 20px;
     text-decoration: none;
+    width: 250px;
 }
 
 .main-nav a:hover {
