@@ -85,7 +85,7 @@ function displayTime() {
 
     hoursBox.innerHTML = hours;
     minutesBox.innerHTML = minutes;
-    secondBox.innerHTML = seconds;
+    secondsBox.innerHTML = seconds;
 
     console.log('The time is', date);
     console.log(hours, minutes, seconds);
